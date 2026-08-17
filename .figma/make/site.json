@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a responsive, clean B2B portfolio UI showcasing projects and metrics with interactive visuals to enhance enterprise SaaS presentations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
